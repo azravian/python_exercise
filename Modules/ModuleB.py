@@ -8,3 +8,5 @@ def function1():
 def function2():
     print("This is a function2 imported from ModuleB.")
 
+def _function3():
+    print("This Function Name start with an underscore")
